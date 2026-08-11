@@ -1,20 +1,26 @@
 <!--- # "Can be a image or a gift from the project pages" -->
 
 <p align="center">
-  <img src="../.github/example.png" alt="Project Name">
+  <img src="../.github/example.png" alt="HealthSense APP">
 </p>
 
-# Project Name
+# HealthSense APP
 
-Description about the project...
+Bem-vindo ao Repositório oficial do Aplicativo HealthSense, 
+Esse projeto é o Trabalho de Conclusão de Curso da série 3Y 
+da ETEC Lauro Gomes 2026. 
 
-## Tech Stack
+Somos do grupo HealthSense
+
+"Uma pulseira inteligente capaz de monitorar os sinais vitais do paciente com um aplicativo que relata o diagnóstico dele para os profissionais de saúde com antecedência e, se houver alguma instabilidade, alerta todos os responsáveis técnicos do setor para que tenha assistência médica o mais rápido possível."
+
+## Tecnologias Utilizadas
 
 <!--- # "Verify icons availability here https://github.com/tandpfun/skill-icons" -->
 
-[![My Skills](https://skillicons.dev/icons?i=ts,nestjs,prisma,docker,postgres,vite,react,tailwind)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,android,prisma,docker,postgres,vite,react,tailwind)](https://skillicons.dev)
 
-## Getting Started
+## Como Instalar?
 
 1. **Install Dependencies**: `npm install or yarn`
 2. **Create containers**: `docker-compose up -d`
@@ -22,13 +28,11 @@ Description about the project...
 4. **Database Setup**: `npx prisma migrate dev --name init`
 5. **Start Developing**: `npm run start:dev (api) & npm run dev (frontend)`
 
-## Contribute
+## Contribuições
 
 1. **Clone project**: `git clone https://github.com/Fernanda-Kipper/Readme-Templates.git`
 2. **Create feature/branch**: `git checkout -b feature/NAME`
 
-## License
+## Contribuidores Oficiais
 
-This software is available under the following licenses:
 
-- [MIT](https://rem.mit-license.org)
