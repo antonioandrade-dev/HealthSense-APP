@@ -19,7 +19,7 @@ Somos do grupo HealthSense
 <!--- # "Verify icons availability here https://github.com/tandpfun/skill-icons" -->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="[https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim](https://skillicons.dev/icons?i=java,androidstudio,postman,figma,mysql,php)" />
+    <img src="https://skillicons.dev/icons?i=java,androidstudio,postman,figma,mysql,php" />
   </a>
 </p>
 <!-- [![My Skills](https://skillicons.dev/icons?i=java,androidstudio,postman,figma,mysql,php)](https://skillicons.dev) -->
