@@ -26,7 +26,7 @@ Somos do grupo HealthSense
 
 ## Como Instalar?
 
-Faça o download pelos botões abaixo. <br>
+Faça o download pelos botões abaixo. <br><br>
 [![My Skills](https://skillicons.dev/icons?i=androidstudio)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=windows)](https://skillicons.dev)
 
@@ -36,5 +36,11 @@ Faça o download pelos botões abaixo. <br>
 2. **Crie uma feature/branch**: `git checkout -b feature/NAME`
 
 ## Contribuidores Oficiais
+
+<a href="https://github.com/LucasCerqueira-100">
+  <img src="https://avatars.githubusercontent.com/u/189639198?v=4" />
+</a>
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
