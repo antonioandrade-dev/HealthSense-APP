@@ -17,8 +17,12 @@ Somos do grupo HealthSense
 ## Tecnologias Utilizadas
 
 <!--- # "Verify icons availability here https://github.com/tandpfun/skill-icons" -->
-
-[![My Skills](https://skillicons.dev/icons?i=java,android,prisma,docker,postgres,vite,react,tailwind)](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="[https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim](https://skillicons.dev/icons?i=java,androidstudio,postman,figma,mysql,php)" />
+  </a>
+</p>
+<!-- [![My Skills](https://skillicons.dev/icons?i=java,androidstudio,postman,figma,mysql,php)](https://skillicons.dev) -->
 
 ## Como Instalar?
 
