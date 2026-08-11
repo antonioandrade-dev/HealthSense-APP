@@ -1,7 +1,7 @@
 <!--- # "Can be a image or a gift from the project pages" -->
 
 <p align="center">
-  <img src="LogoAPP.png" alt="HealthSense APP">
+  <img src="LogoAPP.png" alt="HealthSense APP" width="400px" height="400px">
 </p>
 
 # HealthSense APP
