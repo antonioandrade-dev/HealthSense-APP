@@ -1,7 +1,7 @@
 <!--- # "Can be a image or a gift from the project pages" -->
 
 <p align="center">
-  <img src="../.github/example.png" alt="HealthSense APP">
+  <img src="LogoAPP.png" alt="HealthSense APP">
 </p>
 
 # HealthSense APP
@@ -26,16 +26,14 @@ Somos do grupo HealthSense
 
 ## Como Instalar?
 
-1. **Install Dependencies**: `npm install or yarn`
-2. **Create containers**: `docker-compose up -d`
-3. **Environment variables**: Copy `.env.example` to a new `.env.local`
-4. **Database Setup**: `npx prisma migrate dev --name init`
-5. **Start Developing**: `npm run start:dev (api) & npm run dev (frontend)`
+Faça o download pelos botões abaixo.
+[![My Skills](https://skillicons.dev/icons?i=androidstudio)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=windows)](https://skillicons.dev)
 
 ## Contribuições
 
-1. **Clone project**: `git clone https://github.com/Fernanda-Kipper/Readme-Templates.git`
-2. **Create feature/branch**: `git checkout -b feature/NAME`
+1. **Clone o Projeto**: `git clone https://github.com/antonioandrade-dev/HealthSense-APP`
+2. **Crie uma feature/branch**: `git checkout -b feature/NAME`
 
 ## Contribuidores Oficiais
 
