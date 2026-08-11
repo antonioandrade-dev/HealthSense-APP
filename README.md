@@ -26,7 +26,7 @@ Somos do grupo HealthSense
 
 ## Como Instalar?
 
-Faça o download pelos botões abaixo.
+Faça o download pelos botões abaixo. <br>
 [![My Skills](https://skillicons.dev/icons?i=androidstudio)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=windows)](https://skillicons.dev)
 
