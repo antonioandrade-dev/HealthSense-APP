@@ -38,7 +38,7 @@ Faça o download pelos botões abaixo. <br><br>
 ## Contribuidores Oficiais
 
 <a href="https://github.com/LucasCerqueira-100">
-  <img src="https://avatars.githubusercontent.com/u/189639198?v=4" width="300px" width="300px" style="border-radius:100%;" />
+  <img src="https://avatars.githubusercontent.com/u/189639198?v=4" width="300px" width="300px" style="border-radius:100;" />
 </a>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
